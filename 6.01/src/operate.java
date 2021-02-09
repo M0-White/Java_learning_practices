@@ -45,7 +45,7 @@ public class operate
         System.out.println("Test output end");
         //*/
         int[] array = new int[split_array.length];//定义数组
-        for(int i = 0;i < split_array.length;i++)
+        for(int i = 0; i < split_array.length; i++)
         {
             array[i] = Integer.parseInt(split_array[i]);//将分割得到的子字符串中的字符类文本转化为数字类文本赋值到数组中
         }
