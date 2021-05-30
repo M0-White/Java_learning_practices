@@ -22,7 +22,7 @@ public class operate {
 
     public static void output()
     {
-
+        if(sc.nextInt() < 0) System.out.println(sc.nextInt()/(-10));
     }
 }
 

@@ -1,29 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e636160a-7464-41f7-a376-1ed488ec2ce8" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/2.01/2.01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.02/2.02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.01/3.01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.02/3.02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.03/3.03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.01/4.01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.02/4.02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.03/4.03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.01/5.01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.02/5.02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.03/5.03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5.04/5.04.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.01/6.01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.02/6.02.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.03/6.03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.04/6.04.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sample/Sample.iml" beforeDir="false" />
+    <list default="true" id="e636160a-7464-41f7-a376-1ed488ec2ce8" name="默认的" comment="默认的">
+      <change afterPath="$PROJECT_DIR$/A+B/A+B.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A+B/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sample/src/operate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sample/src/operate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,6 +30,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="operatwe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operatwe" />
+      <module name="A+B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.operatwe" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -47,10 +58,16 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="328" y="42" key="new project wizard" timestamp="1612898422643">
-      <screen x="0" y="0" width="1472" height="864" />
-    </state>
-    <state x="328" y="42" key="new project wizard/0.0.1472.864@0.0.1472.864" timestamp="1612898422643" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
